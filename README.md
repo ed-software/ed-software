@@ -18,7 +18,7 @@
 
 I am a Full Stack Developer from Sydney, Australia.
 
-- 🔭 I’m currently working on Wueyo, Cratedig and other small projects
+- 🔭 I’m currently working on Wueyo, Cratedig and other projects
 - 🌱 I’m currently learning Rust :crab:
 - 💬 Ask me about React ⚛️
 
